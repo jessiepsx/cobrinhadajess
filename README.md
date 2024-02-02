@@ -1,3 +1,3 @@
 # cobrinhadajess
 
-![Snake animation](https://github.com/jessiepsx/jessiepsx/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/jessiepsx/cobrinhadajess/blob/output/github-contribution-grid-snake.svg)
